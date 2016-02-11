@@ -1,11 +1,11 @@
-# ReactJS the good parts
+# ReactJS Best Practices
 
 ## Pros of ReactJS
 #### Awesome featrures that come out of the box
 - DOM tree abstraction
 - Declarative programming
 - Componentization
-- JSX - clear
+- JSX - clear UI component
 
 ## Cons
 #### Mutative objects (JavaScript inherent issue)
